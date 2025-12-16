@@ -1,5 +1,5 @@
 
-<div id="header" align="left">
+<div id="header" align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJ5ZGRibTNtZXpoNDR5b3duemEwNHdleHRhMjFqMGl1aWV3ZWZtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"/>
   <h1> 👋 Hi, I'm Ramiro González
 </h1>
