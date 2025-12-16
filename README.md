@@ -37,22 +37,14 @@ Certified **eJPTv2**, with hands-on experience in pentesting labs, security chal
 
 
 ## 🛠️ Skills & Technologies
-
-**Offensive Security & Pentesting**
 - Kali Linux, Burp Suite, Metasploit, Nmap, Wireshark
 - LinPEAS / WinPEAS, Netcat, BloodHound
-
-**Blue Team / DFIR**
 - Log analysis, traffic analysis (PCAP)
 - Splunk Enterprise Security
 - Incident response fundamentals
-
-**Scripting & Development**
 - Python
 - Bash
 - PowerShell (basic)
-
-**Systems & Networking**
 - Windows Server 2019
 - Active Directory
 - Linux (Kali, Ubuntu, Debian)
